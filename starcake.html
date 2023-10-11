@@ -1,0 +1,125 @@
+<!DOCTYPE html> 
+ <html> 
+     <head> 
+         <meta http-equiv="refresh" content="15"> 
+         <title>Lucy Test</title> 
+         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ionicons/2.0.1/css/ionicons.min.css"> 
+         <link rel="stylesheet" href="./css/strawberry.css"> 
+         <script src="./js/mango.js"></script>
+         <script src="./js/spacecat.js"></script>
+     </head> 
+     <body> 
+         <!-- Encabezado --> 
+         <header class="header"> 
+             <div class="row">                 
+                 <div class="column column-left"> 
+                     <label for="btn-menu" class="">
+                         <p>&#x2615; MENU</p>
+                     </label>         
+                 </div> 
+                 <div class="column column-center"> 
+                     <p>S4TURN</p>
+                 </div> 
+                 <div class="column column-right"> 
+                     <div class="clock"></div>
+                 </div>               
+             </div> 
+         </header> 
+         <!-- Menu --> 
+         <container> 
+             <input type="checkbox" id="btn-menu"> 
+             <div class="menua"> 
+                 <div class="menub" id="menub"> 
+                     <nav> 
+                         <div class="imgcont"> 
+                             <div class=""> 
+                                 <label for="btn-menu" class=""> 
+                                     <p>&#129360;</p>
+                                 </label>
+                                 <div class="txtfloat">
+                                     <p>ArkoIriz<br>Proyect</p>
+                                 </div>
+                             </div> 
+                             <div class="imgfloat0">                                
+                                 <div class="imgfloat1"> 
+                                     <div class="image"> 
+                                         <img src="./pics/mspachon.jpg">    
+                                     </div> 
+                                 </div> 
+                             </div> 
+                         </div> 
+                         <br>
+                         <a href="./health.html">Salud</a>
+                         <a href="#">Ejemplo</a>
+                         <a href="#">Ejemplo</a>                                           
+                     </nav> 
+                     <div class="footer"> 
+                         <div class="row"> 
+                             <div class="column">
+                                 <h3>|</h3>
+                             </div>
+                             <div class="column">
+                                 <h6>DARK LOLLIPOP &#127853;</h6>
+                             </div>
+                         </div> 
+                     </div> 
+                 </div> 
+             </div>           
+         </container> 
+         <!-- Contenido principal --> 
+         <container class="contenido"> 
+             <div class="title">
+                 <div class="float-tired">
+                     <h3>ARKOIRIZ</h3>
+                 </div>
+             </div>
+             <div class="sub-title">
+                 <h4>About Us</h4>
+             </div>
+             <div class="text-fill">
+                 <p class="just">
+                     ArkoIriz project, was designed by Shun on 2023.              
+                 </p>
+                 <p class="just">
+                     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.   
+                 </p>
+              </div>             
+         </container> 
+             <!-- footer -->
+             <div class="main-footer">
+             <div class="row">
+                 <div class="column light1">
+                     <h6>DARK LOLLIPOP </h6>
+                 </div>
+                 <div class="column light3">
+                     <h5>|</h5>
+                 </div>
+                 <div class="column dark1">
+                     <h6>SATURN</h6>
+                 </div>
+                 <div class="icon">
+                     <img src="./pics/planet.png">
+                 </div>
+                 <div>
+                    Lao
+                 </div>
+             </div>
+         </div>               
+         <script>
+  document.addEventListener('DOMContentLoaded', function() {
+  const menuToggle = document.getElementById('btn-menu');
+  const mainFooters = document.getElementsByClassName('main-footer');
+
+  menuToggle.addEventListener('change', function () {
+    for (let i = 0; i < mainFooters.length; i++) {
+      if (menuToggle.checked) {
+        mainFooters[i].style.opacity = '0'; // Oculta los elementos con la clase "main-footer" cuando se activa el menú
+      } else {
+        mainFooters[i].style.opacity = '.9'; // Muestra los elementos con la clase "main-footer" cuando se desactiva el menú
+      }
+    }
+  });
+});
+  </script>
+     </body> 
+ </html>

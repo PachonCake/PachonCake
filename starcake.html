@@ -1,12 +1,315 @@
 <!DOCTYPE html> 
  <html> 
      <head> 
-         <meta http-equiv="refresh" content="15"> 
          <title>Lucy Test</title> 
          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ionicons/2.0.1/css/ionicons.min.css"> 
-         <link rel="stylesheet" href="./css/strawberry.css"> 
-         <script src="./js/mango.js"></script>
-         <script src="./js/spacecat.js"></script>
+         <style>
+             html, body { 
+     min-heigth: 100%; 
+     background: linear-gradient(to bottom right, #a595a7, #a595a7, #a595a7, #5a5a5a, #555555, #4f4f4f, #4a4a4a, #454545, #3f3f3f, #3a3a3a, #353535, #2f2f2f, #2a2a2a, #252525, #1f1f1f, #1a1a1a, #151515, #101010, #0f0f0f, #0e0e0e, #0d0d0d, #0c0c0c, #0b0b0b, #0a0a0a, #090909, #805b70, #c070a8, #ffb6df); 
+     background-attachment: fixed; 
+ } 
+.header { 
+     position: fixed; 
+     width: 100%; 
+     background: linear-gradient(to bottom right, #ece6da, #b1ada4, #808080, #707070, #606060, #505050, #404040, #303030, #292929, #202020, #191919, #101010, #000000); 
+     left: 0; 
+     right: 0; 
+     top: 0; 
+     opacity: .9; 
+     z-index: 10; 
+ } 
+ .clock {
+     color: #ffb6df;
+     font-size: 16px;
+ }
+ .seconds {
+     color: #c070a8;
+     font-size: 12px;
+ }
+ .header label { 
+     padding: 0;
+     margin: 0;
+     font-size: 12px;
+     line-height: 1;
+ } 
+ .header h6 {
+     margin: 1px;
+     padding: 0;
+ }
+ .header h4 { 
+     margin: 0; 
+     color: #ffb6df; 
+     padding: 1px;
+     font-size: 24px;
+ } 
+ .header p {
+     color: #ffb6df;
+     font-size: 12px;
+     margin: 0;
+     padding: 1px;
+ }
+ .row {
+     display: flex; 
+     justify-content: space-between; 
+     width: 100%; 
+ }
+ /* column */
+ .column { 
+     flex: 1 0 auto;
+     margin: 2px;
+ } 
+ .column-left { 
+     text-align: left; 
+ } 
+ .column-center { 
+     text-align: center; 
+ } 
+ .column-right { 
+     text-align: right;  
+ } 
+ 
+ /* menu */ 
+ .image { 
+     width: 90px; 
+     height: 90px; 
+     border-radius: 50%; 
+     overflow: hidden; 
+     display: flex; 
+     justify-content: center; 
+     align-items: center; 
+ } 
+ .image img { 
+     max-width: 100%; 
+     max-height: 100%; 
+     object-fit: cover; 
+ } 
+ .imgcont { 
+     background: #ece6da; 
+     margin-top: 0; 
+     margin-bottom: 2px; 
+     width: 100%; 
+     height: 115px; 
+     border-radius: 8px; 
+     display: flex; 
+     justify-content: space-between; 
+     align-items: center; 
+ } 
+ .txtfloat { 
+     color: #805b70; 
+     margin-top: 0; 
+     margin-bottom: 0; 
+     margin-left: 15px; 
+     margin-right: auto;
+     display: flex; 
+     justify-content: center; 
+     align-items: center; 
+ } 
+ .imgfloat0 { 
+     background: #f0a6d0; 
+     margin-top: 0; 
+     margin-bottom: 0; 
+     margin-left: auto; 
+     margin-right: 15px; 
+     width: 106px; 
+     height: 106px; 
+     border-radius: 50%; 
+     display: flex; 
+     justify-content: center; 
+     align-items: center; 
+ } 
+ .imgfloat1 { 
+     background: #880808; 
+     margin-top: 0; 
+     margin-bottom: 0; 
+     width: 98px; 
+     height: 98px; 
+     border-radius: 50%; 
+     display: flex; 
+     justify-content: center; 
+     align-items: center; 
+ } 
+ #btn-menu { 
+     display: none; 
+ } 
+ .menua { 
+     position: fixed; 
+     background: linear-gradient(to bottom right, rgba(255, 182, 223, 0.4), rgba(255, 182, 223, 0.4), rgba(000, 000, 000, 0.5), rgba(000, 000, 000, 0.5), rgba(000, 000, 000, 0.6), rgba(000, 000, 000, 0.6), rgba(000, 000, 000, 0.7), rgba(000, 000, 000, 0.8), rgba(017, 001, 001, 0.9), rgba(136, 008, 008, 1)); 
+     width: 100%; 
+     height: 100vh; 
+     top: 23px; 
+     bottom: 0; 
+     left: 0; 
+     transition: all 450ms ease; 
+     opacity: 0; 
+     visibility: hidden; 
+     overflow-y: auto; 
+ } 
+ #btn-menu:checked + .menua { 
+     opacity: 1; 
+     visibility: visible; 
+ } 
+ #btn-menu:checked + .header label {
+     visibility: hidden;
+     opacity: 0;
+ }
+ .menub { 
+     width: 100%; 
+     max-width: 250px; 
+     background: linear-gradient(to bottom right, #5a5a5a, #555555, #4f4f4f, #4c4c4c, #4a4a4a, #454545, #3f3f3f, #3c3c3c, #3a3a3a, #353535, #2f2f2f, #2c2c2c, #2a2a2a, #252525, #1f1f1f, #1a1a1a, #151515, #101010, #0f0f0f, #0e0e0e, #0d0d0d, #0c0c0c, #0b0b0b, #0a0a0a, #090909); 
+     height: 100%; 
+     position: relative; 
+     top: 0; 
+     bottom: 0; 
+     transition: all 500ms ease; 
+     transform: translateX(-100%);
+     border-radius: 20px;
+ } 
+ #btn-menu:checked ~ .menua .menub { 
+     transform: translateX(0%) 
+ } 
+ .menub nav a { 
+     text-decoration: none; 
+     color: #ffb6df; 
+     display: block; 
+     padding: 20px; 
+     border-left: 5px solid transparent; 
+     transition: all 650ms ease-in; 
+ } 
+ .menub label { 
+     position: absolute; 
+     right: 5px; 
+     top: 1px;
+     cursor: pointer; 
+ } 
+ .menub label p {
+     font-size: 18px; 
+     outline: none; 
+     padding: 1px;
+     margin: 1px;     
+     flex: 1 0 auto; 
+ }
+ .menub h6 {
+     color: #ece6da;
+ }
+ .menub h3 {
+     color: #ffb6df;
+ }
+ .navy {
+     text-decoration: none; 
+     color: #ffb6df; 
+     display: block; 
+     padding: 6px; 
+     border-left: 5px solid transparent; 
+     transition: all 1650ms ease; 
+ }
+ .footer { 
+     border: 0; 
+     position: fixed;     
+     width: 100%;
+     left: 0;
+     right: 0;
+     bottom: 5px; 
+     text-align: right;      
+ }
+ /* PRINCIPAL CONTENT */
+ .title { 
+     background: #805b70; 
+     margin-top: 0; 
+     margin-bottom: 0; 
+     margin-left: auto; 
+     margin-right: auto;
+     width: 130px;
+     height: 26px;
+     border-radius: 15px;
+     display: flex; 
+     justify-content: center; 
+     align-items: center; 
+ } 
+ .float-tired { 
+     background: #000000; 
+     margin-top: 0; 
+     margin-bottom: 0; 
+     margin-left: auto; 
+     margin-right: auto; 
+     width: 120px; 
+     height: 20px; 
+     border-radius: 10px; 
+     display: flex; 
+     justify-content: center; 
+     align-items: center; 
+ }  
+.contenido {
+    color: #ece6da;
+    padding: 3px;
+}
+.sub-title {
+    text-align: right;
+    margin-right: 2px;
+}
+.contenido h3 {
+    color: #aaaaaa;
+    padding: 1px;
+}
+.contenido h4 {
+    color: #808080;
+    padding: 1px;
+}
+/* TEXT STYLES */
+.just {
+    text-align: justify;
+}
+.center {
+    text-align:center;
+}
+.right {
+    text-align: right;
+}
+.left {
+    text-align: left;
+}
+.text-fill {
+    padding:5px;
+}
+/* main footer*/
+.main-footer { 
+     border: 1px;     
+     width: 100%;
+     position: fixed;
+     left: 0;
+     right: 0;
+     bottom: 0; 
+     text-align: center;      
+     background: #222222;
+     opacity: .9;
+     transition: all 500ms ease;
+     max-height: 22px;
+ }
+ .main-footer h5 {
+     color: #ffb6df;
+     padding: 2px;
+     margin: 0;
+ }
+ .main-footer h6 {
+     color: #ece6da;
+     padding: 2px;
+     margin: 0;
+ }
+ .icon { 
+     width: 20px; 
+     height: 20px; 
+     overflow: hidden; 
+     display: flex; 
+     justify-content: center; 
+     align-items: center; 
+ }
+  .icon img { 
+     max-width: 100%; 
+     max-height: 100%; 
+     object-fit: cover; 
+ } 
+
+         </style>
      </head> 
      <body> 
          <!-- Encabezado --> 
@@ -49,7 +352,7 @@
                              </div> 
                          </div> 
                          <br>
-                         <a href="./health.html">Salud</a>
+                         <a href="#">Salud</a>
                          <a href="#">Ejemplo</a>
                          <a href="#">Ejemplo</a>                                           
                      </nav> 
@@ -106,8 +409,31 @@
              </div>
          </div>               
          <script>
-  document.addEventListener('DOMContentLoaded', function() {
-  const menuToggle = document.getElementById('btn-menu');
+  window.addEventListener('DOMContentLoaded', function() {
+  // Obtener el encabezado y el contenido por su ID
+  var tableHeader = document.querySelector('.header');
+  var contenido = document.querySelector('.contenido');
+
+  // Calcular la altura del encabezado y establecerla como margen superior del contenido
+  var headerHeight = tableHeader.offsetHeight;
+  contenido.style.marginTop = headerHeight + 'px';
+
+  // Actualizar el margen superior cuando se redimensione la ventana
+  window.addEventListener('resize', function() {
+    headerHeight = tableHeader.offsetHeight;
+    contenido.style.marginTop = headerHeight + 'px';
+  });
+   function updateClock() { 
+  var now = new Date(); 
+  var hours = now.getHours(); 
+  var minutes = now.getMinutes(); 
+  var seconds = now.getSeconds(); minutes = (minutes < 10 ? "0" : "") + minutes; seconds = (seconds < 10 ? "0" : "") + seconds; 
+ var time = hours + ":" + minutes; 
+ var secondsTime = '<span class="seconds">' + seconds + '</span>'; 
+ var clocks = document.getElementsByClassName("clock"); 
+ for (var i = 0; i < clocks.length; i++) { clocks[i].innerHTML = time + secondsTime; } setTimeout(updateClock, 1000); } updateClock();
+ 
+ const menuToggle = document.getElementById('btn-menu');
   const mainFooters = document.getElementsByClassName('main-footer');
 
   menuToggle.addEventListener('change', function () {

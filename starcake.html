@@ -308,7 +308,6 @@
      max-height: 100%; 
      object-fit: cover; 
  } 
-
          </style>
      </head> 
      <body> 
@@ -413,11 +412,9 @@
   // Obtener el encabezado y el contenido por su ID
   var tableHeader = document.querySelector('.header');
   var contenido = document.querySelector('.contenido');
-
   // Calcular la altura del encabezado y establecerla como margen superior del contenido
   var headerHeight = tableHeader.offsetHeight;
   contenido.style.marginTop = headerHeight + 'px';
-
   // Actualizar el margen superior cuando se redimensione la ventana
   window.addEventListener('resize', function() {
     headerHeight = tableHeader.offsetHeight;
@@ -432,10 +429,8 @@
  var secondsTime = '<span class="seconds">' + seconds + '</span>'; 
  var clocks = document.getElementsByClassName("clock"); 
  for (var i = 0; i < clocks.length; i++) { clocks[i].innerHTML = time + secondsTime; } setTimeout(updateClock, 1000); } updateClock();
- 
  const menuToggle = document.getElementById('btn-menu');
   const mainFooters = document.getElementsByClassName('main-footer');
-
   menuToggle.addEventListener('change', function () {
     for (let i = 0; i < mainFooters.length; i++) {
       if (menuToggle.checked) {

@@ -13,9 +13,9 @@
 </p> 
 <div align="center">
   
-|N| > ACTIVITIES < | > DETAILS < |
+|N| >ACTIVITIES | >DETAILS |
 |-|:---|:---|
-|1| Alimentación | Uso moderado de vegetales para evitar una posible intoxicación |
+|1| Alimentación | Uso moderado de vegetales para evitar </br> una posible intoxicación |
 |2| Cuidado | No tomarlo de su cabecita, ya que podría causarle daños neuronales |
 |3| Baño | Evita tallarlo fuerte ya qué puedes lastimarlo y puede esponjarse |
 |4| Hora de sueño | Usa una cobija cálida y cómoda, siendo cuidadoso con la selección de la textura | 

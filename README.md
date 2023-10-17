@@ -16,9 +16,9 @@
 |N| >ACTIVITIES | >DETAILS |
 |-|:---|:---|
 |1| Alimentación | Uso moderado de vegetales para evitar </br> una posible intoxicación |
-|2| Cuidado | No tomarlo de su cabecita, ya que podría causarle daños neuronales |
-|3| Baño | Evita tallarlo fuerte ya qué puedes lastimarlo y puede esponjarse |
-|4| Hora de sueño | Usa una cobija cálida y cómoda, siendo cuidadoso con la selección de la textura | 
-|5| Hora de juego | No juegues tan rudo con el, ya que su cuerpo es sensible y puede lastimarse fácilmente |
+|2| Cuidado | No tomarlo de su cabecita, ya </br> que podría causarle daños neuronales |
+|3| Baño | Evita tallarlo fuerte ya qué puedes </br> lastimarlo y puede esponjarse |
+|4| Hora de sueño | Usa una cobija cálida y cómoda, siendo </br> cuidadoso con la selección de la textura | 
+|5| Hora de juego | No juegues tan rudo con el, ya </br> que su cuerpo es sensible y puede lastimarse fácilmente |
 
 </div> 

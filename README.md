@@ -13,7 +13,7 @@
 </p> 
 <div align="center">
   
-|N| >ACTIVITIES | >DETAILS |
+|N| &gt;ACTIVITIES | &gt;DETAILS |
 |-|:---|:---|
 |1| Alimentación | Uso moderado de vegetales para evitar una </br> posible intoxicación |
 |2| Cuidado | No tomarlo de su cabecita, ya que podría </br> causarle daños neuronales |

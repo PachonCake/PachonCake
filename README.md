@@ -9,7 +9,7 @@
 ---
 
 <p align="center">
-> CUIDADOS DE UN TLACUACHIN/OPOSSUM <
+&gt; CUIDADOS DE UN TLACUACHIN/OPOSSUM &lt;
 </p> 
 <div align="center">
   

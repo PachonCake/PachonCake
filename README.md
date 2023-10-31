@@ -1,6 +1,6 @@
 <div align="right">
 
-|Tlacuache.y.Pastel| <img src="https://github.com/PachonCake/PachonCake/raw/main/opossumandcake.png" alt="OPOSSUM & CAKE" width="65" height="65"> |
+|Tlacuache.y.Pastel| <img src="https://github.com/PachonCake/PachonCake/raw/main/opossumandcake.png" alt="OPOSSUM & CAKE" width="90" height="90"> |
 |:--|:--|
 
 </div>

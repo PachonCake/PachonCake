@@ -1,6 +1,6 @@
 <div align="right">
 
-|Tlacuache.y.Pastel| <img src="https://github.com/PachonCake/PachonCake/raw/main/opossumandcake.png" alt="OPOSSUM & CAKE" width="90" height="90"> |
+|PachonCake| <img src="https://github.com/PachonCake/PachonCake/raw/main/opossumandcake.png" alt="OPOSSUM & CAKE" width="60" height="60"> |
 |:--|:--|
 
 </div>
@@ -22,3 +22,13 @@
 |5| Hora de juego | No juegues tan rudo con el, ya que su cuerpo </br> es sensible y puede lastimarse fácilmente |
 
 </div> 
+
+---
+
+<div align="right">
+  
+  |Developed by| Shun |
+  |-|:---|
+  |All Rights reseved| Saturn 2025 |
+  
+</div>

@@ -9,13 +9,17 @@
 ---
 
 <p align="center">
-&gt; Ponjoso Proyect &lt;
+&gt; No se que poner &lt;
 </p> 
 <div align="center">
   
-|N| &gt;ACTIVITIES | &gt;DETAILS |
+|N| &gt;LANGUAGE | &gt;PROGRESS |
 |-|:---|:---|
-|☆| Ayuda, llamen a dios!!! |☆|
+|☆| JAVASCRIPT |0%|
+|☆| PYTHON |0%|
+|☆| HTML |45%|
+|☆| CSS |5%|
+|☆| ENGLISH 0.o |15%|
 
 </div> 
 
@@ -23,8 +27,8 @@
 
 <div align="right">
   
-  |Developed by| Shun |
-  |-|:---|
-  |All Rights reseved| Saturn 2027 |
+  |☆| ---- &copy; Ponjoso ----|☆|
+  |-|:---|:---|
+  |☆| Ayuda, llamen a mi Pashomsita hermosa!!! |☆|
   
 </div>

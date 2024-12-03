@@ -1,6 +1,6 @@
 <div align="right">
 
-|PachonCake| <img src="https://github.com/PachonCake/PachonCake/raw/main/fluttlershygir.png" alt="OPOSSUM & CAKE" width="60" height="60"> |
+|PachonCake| <img src="https://github.com/PachonCake/PachonCake/raw/main/fluttlershygir.png" alt="Fluttershy Gir" width="60" height="60"> |
 |:--|:--|
 
 </div>

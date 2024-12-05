@@ -1,12 +1,8 @@
-<div align="right">
-
-|PachonCake| <img src="https://github.com/PachonCake/PachonCake/raw/main/shygir1.png" alt="Fluttershy Gir" width="60" height="60"> |
-|:--|:--|
-
-</div>
 <!--- Ayuda, llamen a dios!!! --->
 
 ---
+
+<div align="center">
 <table style="width: 90%; margin: auto;">
   <tr>
     <td style="width: 30%; text-align: center;">
@@ -24,10 +20,12 @@
 <b>CPU</b>: Intel i7-9750H
 <b>GPU</b>: NVIDIA GTX 1650
 <b>RAM</b>: 7.8 GB / 16 GB
+<img src="https://github.com/PachonCake/PachonCake/raw/main/shygir1.png" alt="palette" height="30px">
       </pre>
     </td>
   </tr>
 </table>
+</div>
 
 <h4>Paleta de colores</h4>
 <div style="display: flex; justify-content: space-between; width: 100px;">

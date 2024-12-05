@@ -7,29 +7,39 @@
 <!--- Ayuda, llamen a dios!!! --->
 
 ---
+<table style="width: 90%; margin: auto;">
+  <tr>
+    <td style="width: 30%; text-align: center;">
+      <img src="https://github.com/PachonCake/PachonCake/raw/main/shygir1.png" alt="logo" width="250">
+    </td>
+    <td style="width: 70%; text-align: left;">
+      <pre>
+<b>User@Machine</b>
+-------------------------
+<b>OS</b>: Fedora 38 Workstation
+<b>Kernel</b>: 6.5.7
+<b>Uptime</b>: 1h 45m
+<b>Packages</b>: 2034 (rpm)
+<b>Shell</b>: bash 5.2.15
+<b>CPU</b>: Intel i7-9750H
+<b>GPU</b>: NVIDIA GTX 1650
+<b>RAM</b>: 7.8 GB / 16 GB
+      </pre>
+    </td>
+  </tr>
+</table>
 
-<p align="left">
-  <img src="https://github.com/PachonCake/PachonCake/raw/main/shygir1.png" alt="logo" width="200">
-</p>
+<h4>Paleta de colores</h4>
+<div style="display: flex; justify-content: space-between; width: 100px;">
+  <div style="background-color: #ff0000; width: 20px; height: 20px;"></div>
+  <div style="background-color: #ff7f00; width: 20px; height: 20px;"></div>
+  <div style="background-color: #ffff00; width: 20px; height: 20px;"></div>
+  <div style="background-color: #00ff00; width: 20px; height: 20px;"></div>
+  <div style="background-color: #0000ff; width: 20px; height: 20px;"></div>
+</div>
 
-**User@Machine**  
--------------------------  
-**OS**: Fedora 38 Workstation  
-**Kernel**: 6.5.7  
-**Uptime**: 1h 45m  
-**Packages**: 2034 (rpm)  
-**Shell**: bash 5.2.15  
-**CPU**: Intel i7-9750H  
-**GPU**: NVIDIA GTX 1650  
-**RAM**: 7.8 GB / 16 GB  
-
-<p>
-  <span style="display:inline-block; width:20px; height:20px; background:#FF0000; border:1px solid #000;"></span>
-  <span style="display:inline-block; width:20px; height:20px; background:#00FF00; border:1px solid #000;"></span>
-  <span style="display:inline-block; width:20px; height:20px; background:#0000FF; border:1px solid #000;"></span>
-  <span style="display:inline-block; width:20px; height:20px; background:#FFFF00; border:1px solid #000;"></span>
-  <span style="display:inline-block; width:20px; height:20px; background:#FF00FF; border:1px solid #000;"></span>
-</p>
+**Paleta de colores**  
+🟥 🟩 🟦 🟨 🟪
 
 ---
 

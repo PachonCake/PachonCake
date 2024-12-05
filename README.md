@@ -27,18 +27,6 @@
 </table>
 </div>
 
-<h4>Paleta de colores</h4>
-<div style="display: flex; justify-content: space-between; width: 100px;">
-  <div style="background-color: #ff0000; width: 20px; height: 20px;"></div>
-  <div style="background-color: #ff7f00; width: 20px; height: 20px;"></div>
-  <div style="background-color: #ffff00; width: 20px; height: 20px;"></div>
-  <div style="background-color: #00ff00; width: 20px; height: 20px;"></div>
-  <div style="background-color: #0000ff; width: 20px; height: 20px;"></div>
-</div>
-
-**Paleta de colores**  
-🟥 🟩 🟦 🟨 🟪
-
 ---
 
 <p align="center">

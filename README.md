@@ -20,7 +20,7 @@
 <b>CPU</b>: Intel i7-9750H
 <b>GPU</b>: NVIDIA GTX 1650
 <b>RAM</b>: 7.8 GB / 16 GB
-<img src="https://github.com/PachonCake/PachonCake/raw/main/shygir1.png" alt="palette" height="30px">
+<img src="https://github.com/PachonCake/PachonCake/raw/main/girpalette.png" alt="palette" height="30px">
       </pre>
     </td>
   </tr>

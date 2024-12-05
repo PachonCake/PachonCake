@@ -12,12 +12,12 @@
 -------------------------
 <b>OS</b>: Cookie Bit 🍪
 <b>Kernel</b>: 6.5.7
-<b>Uptime</b>: 1h 45m
-<b>Packages</b>: 2034 (rpm)
+<b>Uptime</b>: 21y 3956h
+<b>Packages</b>: 2034 (snackable)
 <b>Shell</b>: bash 5.2.15
-<b>CPU</b>: Intel i7-9750H
-<b>GPU</b>: NVIDIA GTX 1650
-<b>RAM</b>: 7.8 TB / 240 TB
+<b>CPU</b>: NeurAMD Ryzen 21y
+<b>GPU</b>: BrainWave GTX 3956
+<b>RAM</b>: 78 TB (but plenty of cookie cache)
         <br>
 <img src="https://github.com/PachonCake/PachonCake/raw/main/girpalette.png" alt="palette" width="250px">
       </pre>

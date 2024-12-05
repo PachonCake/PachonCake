@@ -15,7 +15,7 @@
 <b>Uptime</b>: 21y 3956h
 <b>Packages</b>: 2034 (snackable)
 <b>Shell</b>: bash 5.2.15
-<b>CPU</b>: NeurAMD Ryzen 21y
+<b>CPU</b>: NeurAMD Ryzen 18
 <b>GPU</b>: BrainWave GTX 3956
 <b>RAM</b>: 78 TB (but plenty of cookie cache)
         <br>

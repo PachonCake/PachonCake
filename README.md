@@ -19,6 +19,8 @@
 <b>GPU</b>: BrainWave GTX 3956
 <b>RAM</b>: 78 TB (but plenty of cookie cache)
         <br>
+<img src="https://github.com/PachonCake/PachonCake/raw/main/PomStar.jpg" alt="palette" width="100px">
+        <br>
 <img src="https://github.com/PachonCake/PachonCake/raw/main/PonjosoPal.png" alt="palette" width="250px">
       </pre>
     </td>

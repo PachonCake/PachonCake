@@ -4,7 +4,7 @@
 <table style="width: 90%; margin: auto;">
   <tr>
     <td style="width: 30%; text-align: center;">
-      <img src="https://github.com/PachonCake/PachonCake/raw/main/shygir1.png" alt="logo" width="350">
+      <img src="https://github.com/PachonCake/PachonCake/raw/main/Ponjoso.jpg" alt="logo" width="350">
     </td>
     <td style="width: 70%; text-align: left;">
       <pre>

@@ -1,12 +1,23 @@
 <!--- Ayuda, llamen a dios!!! --->
 
+---
+
 <div align="left">
 <table style="width: 90%; margin: auto;">
   <tr>
+    <td style="width: 10%; text-align: right;">
+      <b>o</b>
+      <br>
+      <br>
+      <b>o</b>
+      <br>
+      <br>
+      <b>o</b>
+    </td>
     <td style="width: 30%; text-align: center;">
       <img src="https://github.com/PachonCake/PachonCake/raw/main/Ponjoso.jpg" alt="logo" width="350">
     </td>
-    <td style="width: 70%; text-align: left;">
+    <td style="width: 60%; text-align: left;">
       <pre>
 <b>Ponjoso@PachonCake0</b>
 -------------------------
@@ -35,8 +46,6 @@
   <p>☆ Ayuda llamen a mi Pashomsita hermosa!!! ☆</p>
   
 </div>
-
----
 
 ---
 

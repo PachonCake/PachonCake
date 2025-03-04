@@ -16,7 +16,7 @@
 <b>Packages</b>: 2036 (snackable)
 <b>Shell</b>: bash 5.2.15
 <b>CPU</b>: NeurAMD Ryzen 2003
-<b>GPU</b>: BrainWave GTX 3956
+<b>GPU</b>: BrainWave GTX U2086
 <b>RAM</b>: 82 TB (plenty of cookie cache)
         <br>
 <img src="https://github.com/PachonCake/PachonCake/raw/main/PomStar.jpg" alt="palette" width="100px">

@@ -6,13 +6,7 @@
 <table style="width: 90%; margin: auto;">
   <tr>
     <td style="width: 10%; text-align: right;">
-      <b>o</b>
-      <br>
-      <br>
-      <b>o</b>
-      <br>
-      <br>
-      <b>o</b>
+      <b>o</b> <br><br> <b>o</b> <br><br> <b>o</b>
     </td>
     <td style="width: 30%; text-align: center;">
       <img src="https://github.com/PachonCake/PachonCake/raw/main/Ponjoso.jpg" alt="logo" width="350">

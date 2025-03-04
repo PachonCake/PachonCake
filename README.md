@@ -16,7 +16,7 @@
     </td>
     <td style="width: 30%; text-align: left;">
       <pre>
-<b>NanaKomatsu@Esponjosin</b>
+<b>NanaKomatsu@ponjosoCake</b>
 -------------------------
 <b>OS</b>: Cookie Bit 🍪
 <b>Kernel</b>: 6.5.7
@@ -43,7 +43,6 @@
 </div>
 
 ---
-
 <div align="center" >
   
   <p>☆ Ayuda llamen a mi Pashomsita hermosa!!! ☆</p>
@@ -51,7 +50,6 @@
 </div>
 
 ---
-
 <p align="right" style="color:#888; font-size: 8px;">
 &copy; Shun M. 
 </p>

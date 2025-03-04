@@ -41,5 +41,5 @@
 ---
 
 <p align="right" style="color:#888; font-size: 8px;">
-&copy; Ponjoso 
+&copy; Shun M. 
 </p>

@@ -17,7 +17,7 @@
 <b>Shell</b>: bash 5.2.15
 <b>CPU</b>: NeurAMD Ryzen 2003
 <b>GPU</b>: BrainWave GTX 3956
-<b>RAM</b>: 82 TB (but plenty of cookie cache)
+<b>RAM</b>: 82 TB (plenty of cookie cache)
         <br>
 <img src="https://github.com/PachonCake/PachonCake/raw/main/PomStar.jpg" alt="palette" width="100px">
         <br>

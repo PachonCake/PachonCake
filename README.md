@@ -1,22 +1,21 @@
 <!--- Ayuda, llamen a dios!!! --->
-
 ---
 
 <div align="left">
 <table style="width: 90%; margin: auto;">
   <tr>
     <td>
-      P<br>A<br>P<br>A<br>S
+      R <br> A <br> M <br> E <br> N
     </td>
     <td style="width: 10%; text-align: right;">
-      <b>☆</b> <br><br> <b>♡</b> <br><br> <b>☆</b>
+      <b>☆</b> <br><br> <b>☆</b> <br><br> <b>☆</b>
     </td>
     <td style="width: 30%; text-align: center;">
       <img src="https://github.com/PachonCake/PachonCake/raw/main/Ponjoso.jpg" alt="logo" width="350">
     </td>
     <td style="width: 30%; text-align: left;">
       <pre>
-<b>NanaKomatsu@ponjosoCake</b>
+<b>NanaKomatsu@ponjosoCake:~</b>
 -------------------------
 <b>OS</b>: Cookie Bit 🍪
 <b>Kernel</b>: 6.5.7
@@ -27,16 +26,15 @@
 <b>GPU</b>: BrainWave GTX U2086
 <b>RAM</b>: 82 TB (plenty of cookie cache)
         <br>
-<img src="https://github.com/PachonCake/PachonCake/raw/main/PomStar.jpg" alt="palette" width="100px">
-        <br>
-<img src="https://github.com/PachonCake/PachonCake/raw/main/PonjoPal.png" alt="palette" width="250px">
+<img src="https://github.com/PachonCake/PachonCake/raw/main/PomStar.jpg" alt="palette" width="120px">
+<img src="https://github.com/PachonCake/PachonCake/raw/main/PonjoPal.png" alt="palette" width="280px">
       </pre>
     </td>
     <td style="width: 10%; text-align: right;">
-      <b>☆</b> <br><br> <b>♡</b> <br><br> <b>☆</b>
+      <b>☆</b> <br><br> <b>☆</b> <br><br> <b>☆</b>
     </td>
     <td>
-      P <br> E <br> S <br> C <br> A <br> D <br> O
+      A <br> L <br> G <br> A <br> S
     </td>
   </tr>
 </table>

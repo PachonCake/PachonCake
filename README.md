@@ -1,11 +1,10 @@
 <!--- Ayuda, llamen a dios!!! --->
 ---
-
 <div align="left">
 <table style="width: 90%; margin: auto;">
   <tr>
     <td>
-      R <br> A <br> M <br> E <br> N
+      C <br> O <br> D <br> I <br> N <br> G
     </td>
     <td style="width: 10%; text-align: right;">
       <b>☆</b> <br><br> <b>☆</b> <br><br> <b>☆</b>
@@ -34,7 +33,7 @@
       <b>☆</b> <br><br> <b>☆</b> <br><br> <b>☆</b>
     </td>
     <td>
-      A <br> L <br> G <br> A <br> S
+      N <br> U <br> R <br> S <br> E <br> R <br> Y
     </td>
   </tr>
 </table>
@@ -42,12 +41,9 @@
 
 ---
 <div align="center" >
-  
   <p>☆ Ayuda llamen a mi Pashomsita hermosa!!! ☆</p>
-  
 </div>
 
 ---
 <p align="right" style="color:#888; font-size: 8px;">
-&copy; Shun M. 
-</p>
+&copy; Shun M.</p>

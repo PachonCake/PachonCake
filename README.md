@@ -5,15 +5,18 @@
 <div align="left">
 <table style="width: 90%; margin: auto;">
   <tr>
+    <td>
+      P<br>A<br>P<br>A<br>S
+    </td>
     <td style="width: 10%; text-align: right;">
-      <b>o</b> <br><br> <b>o</b> <br><br> <b>o</b>
+      <b>☆</b> <br><br> <b>♡</b> <br><br> <b>☆</b>
     </td>
     <td style="width: 30%; text-align: center;">
       <img src="https://github.com/PachonCake/PachonCake/raw/main/Ponjoso.jpg" alt="logo" width="350">
     </td>
-    <td style="width: 60%; text-align: left;">
+    <td style="width: 30%; text-align: left;">
       <pre>
-<b>Esponjosin@NanaKomatsu</b>
+<b>NanaKomatsu@Esponjosin</b>
 -------------------------
 <b>OS</b>: Cookie Bit 🍪
 <b>Kernel</b>: 6.5.7
@@ -28,6 +31,12 @@
         <br>
 <img src="https://github.com/PachonCake/PachonCake/raw/main/PonjoPal.png" alt="palette" width="250px">
       </pre>
+    </td>
+    <td style="width: 10%; text-align: right;">
+      <b>☆</b> <br><br> <b>♡</b> <br><br> <b>☆</b>
+    </td>
+    <td>
+      P <br> E <br> S <br> C <br> A <br> D <br> O
     </td>
   </tr>
 </table>

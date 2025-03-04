@@ -13,7 +13,7 @@
     </td>
     <td style="width: 60%; text-align: left;">
       <pre>
-<b>Ponjoso@PachonCake0</b>
+<b>Esponjosin@NanaKomatsu</b>
 -------------------------
 <b>OS</b>: Cookie Bit 🍪
 <b>Kernel</b>: 6.5.7

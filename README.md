@@ -21,9 +21,11 @@
 <b>Uptime</b>: 21y 6144h
 <b>Packages</b>: 2036 (snackable)
 <b>Shell</b>: bash 5.2.15
-<b>CPU</b>: NeurAMD Ryzen 2003
+<b>CPU</b>: NeurAMD Ryzen R-03X
 <b>GPU</b>: BrainWave GTX U2086
 <b>RAM</b>: 82 TB (plenty of cookie cache)
+<b>SSD</b>: NVCookie 21PB
+<b>TEMPERATURE</b>: Optimal (Cooled by Ice cream sandwich)
         <br>
 <img src="https://github.com/PachonCake/PachonCake/raw/main/PomStar.jpg" alt="palette" width="120px">
 <img src="https://github.com/PachonCake/PachonCake/raw/main/PonjoPal.png" alt="palette" width="280px">

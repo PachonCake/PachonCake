@@ -25,9 +25,9 @@
 <b>GPU</b>: BrainWave GTX U2086
 <b>RAM</b>: 82 TB (plenty of cookie cache)
 <b>SSD</b>: NVCookie 21PB
-<b>TEMPERATURE</b>: Optimal (Cooled by Ice cream sandwich)
+<b>TEMPERATURE</b>: Optimal 
+<br>           (Cooled by Ice cream sandwich)
         <br>
-<img src="https://github.com/PachonCake/PachonCake/raw/main/PomStar.jpg" alt="palette" width="120px">
 <img src="https://github.com/PachonCake/PachonCake/raw/main/PonjoPal.png" alt="palette" width="280px">
       </pre>
     </td>

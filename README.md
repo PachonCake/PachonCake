@@ -17,16 +17,17 @@
 <b>NanaKomatsu@ponjosoCake:~</b>
 -------------------------
 <b>OS</b>: Cookie Bit 🍪
-<b>Kernel</b>: 6.5.7
-<b>Uptime</b>: 23y 2899h
+<b>Kernel</b>: 7.3.0
+<b>Uptime</b>: 23y 2900h
 <b>Packages</b>: 2036 
    (marshmallow compatible)
-<b>Shell</b>: bash 5.2.15
+<b>Shell</b>: zsh 5.9.2
 <b>CPU</b>: NeurAMD Ryzen R-03X
 <b>GPU</b>: BrainWave GTX U2086
 <b>RAM</b>: 82 TB 
    (plenty of cookie cache)
 <b>SSD</b>: NVCookie 21PB
+<b>Last update</b>: 21/Oct/2026 13:34
 <b>TEMPERATURE</b>: Optimal 
    (Cooled by Ice cream sandwich)
         <br>

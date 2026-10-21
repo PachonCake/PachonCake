@@ -18,7 +18,7 @@
 -------------------------
 <b>OS</b>: Cookie Bit 🍪
 <b>Kernel</b>: 6.5.7
-<b>Uptime</b>: 23y 2917h
+<b>Uptime</b>: 23y 2899h
 <b>Packages</b>: 2036 
    (marshmallow compatible)
 <b>Shell</b>: bash 5.2.15

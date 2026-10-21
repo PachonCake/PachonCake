@@ -45,7 +45,7 @@
 
 ---
 <div align="center" >
-  <p>☆ Ayuda llamen a mi Pashomsita hermosa!!! ☆</p>
+  <p>☆ Ayuda!, llamen a mi Pashomsita hermosa!!! ☆</p>
 </div>
 
 ---
